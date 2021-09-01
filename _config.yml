@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Luiz Eduardo Buzato"
   avatar           : "profile.png"
-  bio              : "Associate Professor at IC/UNICAMP"
+  bio              : "Associate Professor"
   location         : "Campinas SP Brazil"
-  employer         :
+  employer         : "Institute of Computing, UNICAMP"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  lattes	   : "http://lattes.cnpq.br/6903922865972561"
+#  lattes	   : "http://lattes.cnpq.br/6903922865972561"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
