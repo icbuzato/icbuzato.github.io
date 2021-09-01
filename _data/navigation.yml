@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Short-Biography"
-     url: /biography/
+#  - title: "Short-Biography"
+#     url: /biography/
      
   - title: "Vitae"
      url: /cv/
